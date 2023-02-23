@@ -1,3 +1,6 @@
+#find the no.of 1's in between the 0 and immediate 0
+#if input n=6 and enter s in 0's and 1's 
+#s=011001 then output should be 2 
 n=int(input("enter a len of str:"))
 s=input("enter the code:")
 p=r=c=0
